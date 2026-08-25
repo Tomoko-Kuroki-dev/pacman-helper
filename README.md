@@ -15,8 +15,10 @@ Una interfaz sencilla para gestionar paquetes de Arch Linux usando pacman.
 
 ```bash
 ./install.sh
+```
 
 ## Uso
 
 ```bash
 pacman-helper
+```
