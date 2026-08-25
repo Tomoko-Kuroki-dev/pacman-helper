@@ -22,3 +22,7 @@ Una interfaz sencilla para gestionar paquetes de Arch Linux usando pacman.
 ```bash
 pacman-helper
 ```
+
+## ¿Porqué?
+
+Para la gente floja (como yo jsjs) que quiere automatizar todo
