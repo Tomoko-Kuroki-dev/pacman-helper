@@ -26,3 +26,5 @@ pacman-helper
 ## ¿Porqué?
 
 Para la gente floja (como yo jsjs) que quiere automatizar todo
+
+![Me crying because yes](./gifs/frieren-cry.gif)
