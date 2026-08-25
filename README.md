@@ -27,4 +27,6 @@ pacman-helper
 
 Para la gente floja (como yo jsjs) que quiere automatizar todo
 
+
+## Yo llorando porque no tengo dinero
 ![Me crying because yes](./gifs/frieren-cry.gif)
